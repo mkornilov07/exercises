@@ -5,6 +5,7 @@ from BinMessage import generateByteString
 
 # Task 1 - Easy
 def returnStuff(num, boolean):
+    # this function is dogwater
     if num > 5 and boolean == True:
         return 2
     if num <= 5 and (boolean == True or boolean == False):
